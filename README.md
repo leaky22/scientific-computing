@@ -1,2 +1,2 @@
 # scientific-computing
-question TWO 
+pyhton codes for question ONE TWO and THREE
